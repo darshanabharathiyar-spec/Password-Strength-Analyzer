@@ -79,4 +79,17 @@ if suggestions:
 
 if strength != "Strong":
     print("\nSuggested Strong Password:")
-    print(generate_strong_password())
+    print(generate_strong_password()
+
+OUTPUT 
+
+Enter a password: hello123
+
+Password Strength: Medium
+
+Suggestions:
+- Add uppercase letters.
+- Add special characters.
+
+Suggested Strong Password:
+T@9kL#2mP$8q
